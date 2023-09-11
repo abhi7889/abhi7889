@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me ...
 
-<h1 align="center">
+<h1 align="left">
 ✨ Where you can find me ✨
   
-<p align="center">
+<p align="left">
   <br/>
   <a href="https://www.linkedin.com/in/abhishek-sharma-0b4013207/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -26,6 +26,7 @@
 
 
 </p>
+<img align="right" alt="GIF" src="https://images.app.goo.gl/dZaa59T7Ks595hJw9" width="500"/>
 </h1>
 
 ## 🔧 Technologies & Tools
