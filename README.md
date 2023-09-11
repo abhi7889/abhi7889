@@ -1,9 +1,12 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 Hi, I’m ABHISHEK SHARMA
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me ...
+- 🔭 &nbsp; I’m currently learning MERN Stack
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science.
+- 💼 &nbsp; Front-end web developer and Android developer 
+- 🌱 &nbsp; Enthusiast in Cyber Security.
+
+
 
 <h1 align="left">
 ✨ Where you can find me ✨
@@ -26,7 +29,7 @@
 
 
 </p>
-<img align="right" alt="GIF" src="https://images.app.goo.gl/dZaa59T7Ks595hJw9" width="500"/>
+
 </h1>
 
 ## 🔧 Technologies & Tools
@@ -41,7 +44,7 @@
 
 <!---![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)--->
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-<!---![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)--->
+
 
 ### Mobile
 
@@ -64,7 +67,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!---![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)--->
 
 ### Editors
 
