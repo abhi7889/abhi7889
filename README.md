@@ -8,16 +8,6 @@
 <h1 align="center">
 ✨ Where you can find me ✨
   
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/abhishek-sharma-0b4013207/">
@@ -78,3 +68,4 @@
 ### Editors
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
