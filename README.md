@@ -25,14 +25,14 @@
   <a href="https://www.instagram.com/abhi_pangotra">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
-
-
-</p>
 <h1 align="right">
   <a href="https://github.com/t-ho/mern-stack">
     <img alt="mern-logo" width="260px" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
   </a>
 </h1>
+
+</p>
+
 
 </h1>
 
