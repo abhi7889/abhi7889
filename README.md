@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me ...
 
-##[![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abhishek-sharma-0b4013207/](https://www.linkedin.com/in/abhishek-sharma-0b4013207/))]((https://www.linkedin.com/in/abhishek-sharma-0b4013207/)/) 
+##[![Linkedin : abhishek-sharma-0b4013207/]
+
 ## 🔧 Technologies & Tools
 
 ### Frontend
