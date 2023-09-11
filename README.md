@@ -1,5 +1,5 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
@@ -25,11 +25,6 @@
   <a href="https://www.instagram.com/abhi_pangotra">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
-<h1 align="right">
-  <a href="https://github.com/t-ho/mern-stack">
-    <img alt="mern-logo" width="260px" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
-  </a>
-</h1>
 
 </p>
 
