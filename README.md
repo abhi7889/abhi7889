@@ -30,7 +30,7 @@
 </p>
 <h1 align="right">
   <a href="https://github.com/t-ho/mern-stack">
-    <img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
+    <img alt="mern-logo" width="260px" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
   </a>
 </h1>
 
