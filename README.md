@@ -1,5 +1,5 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###👨🏻‍💻 About Me 
+<b👨🏻‍💻 About Me >
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
