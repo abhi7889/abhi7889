@@ -1,13 +1,16 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
 
-<p align="right" position="absolute"><a href="https://github.com/t-ho/mern-stack"><img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/></a></p>
-
+<h1 align="right">
+  <a href="https://github.com/t-ho/mern-stack">
+    <img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
+  </a>
+</h1>
 <h1 align="left">
 ✨ Where you can find me ✨
   
