@@ -6,11 +6,7 @@
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
 
-<h1 align="right">
-  <a href="https://github.com/t-ho/mern-stack">
-    <img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/>
-  </a>
-</h1>
+
 <h1 align="left">
 ✨ Where you can find me ✨
   
