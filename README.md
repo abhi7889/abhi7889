@@ -19,7 +19,7 @@
   
   <a href="https://github.com/abhi7889">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">
-    [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
+    
 
   </a>
 
@@ -75,3 +75,7 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+<br>
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/abhi7889.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/abhi7889?tab=followers)
