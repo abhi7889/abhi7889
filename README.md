@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://github.com/abhi7889">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">(https://github.com/EngincanV?tab=followers)
   </a>
 
  
