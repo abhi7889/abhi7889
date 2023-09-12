@@ -78,4 +78,4 @@
 
 <br>
 <br>
-[![GitHub followers](https://img.shields.io/github/followers/abhi7889.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/abhi7889?tab=followers)
+![Eclipse](https://img.shields.io/github/followers/abhi7889.svg?style=social&label=Follow&maxAge=2592000)
