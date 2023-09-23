@@ -5,8 +5,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
-
-![Meme](https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab)
+ <img width= "100px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
 
 <h1 align="left">
 ✨ Where you can find me ✨
@@ -80,4 +79,3 @@
 <br>
 <br>
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi7889&theme=dark&show_icons=true)
-![Screenshot_2023-09-23-10-19-50-27_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab)
