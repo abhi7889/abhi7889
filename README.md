@@ -1,4 +1,5 @@
 ### Hi there
+ <img align="right" width= "200px" height="200px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
  
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
@@ -6,8 +7,8 @@
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
 
-<img align="right" width= "200px" height="200px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
-<h2 align="left">
+
+<h1 align="left">
 ✨ Where you can find me ✨
   
 <p align="left">
@@ -30,7 +31,7 @@
 </p>
 
 
-</h2>
+</h1>
 
 ## 🔧 Technologies & Tools
 
