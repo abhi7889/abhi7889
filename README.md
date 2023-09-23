@@ -51,7 +51,7 @@
 
 ![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
 
 # Languages
 
