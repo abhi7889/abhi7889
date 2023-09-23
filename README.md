@@ -79,7 +79,7 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=dark&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=dark&show_icons=true">
 
 
 
