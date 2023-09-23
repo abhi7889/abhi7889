@@ -65,7 +65,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=dark&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=transparent&show_icons=true">
 
 ### Deploy
 
