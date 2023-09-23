@@ -1,7 +1,4 @@
 ### Hi there   
-<img align="right"  alt="mern-logo" width="260" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png">
-
-
 
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
