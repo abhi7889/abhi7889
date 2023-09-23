@@ -1,10 +1,11 @@
 <h1 >Hi there
-
+<p>
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
+  </p>
 </h1>
 
 <h1 align="left">
