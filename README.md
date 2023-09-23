@@ -1,11 +1,11 @@
-### Hi there <span ><img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>
+<h1 >Hi there
 
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and Android developer 
 - 🌱 &nbsp; Enthusiast in Cyber Security.
-
+</h1>
 
 <h1 align="left">
 ✨ Where you can find me ✨
