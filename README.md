@@ -37,7 +37,7 @@
 
 ### Frontend
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
+<img align="right"  width= "300px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -69,7 +69,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=transparent&show_icons=true">
+<img align="right"  width= "400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=transparent&show_icons=true">
 
 ### Deploy
 
