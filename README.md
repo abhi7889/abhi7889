@@ -1,5 +1,7 @@
-### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right"  alt="mern-logo" width="260" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png">
+### Hi there   
+<img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
