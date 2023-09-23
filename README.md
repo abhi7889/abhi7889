@@ -1,4 +1,4 @@
-<h1 >Hi there</h1>
+### Hi there
  
 - 🔭 &nbsp; I’m currently learning MERN Stack
 - 🤔 &nbsp; Exploring new technologies 
@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Enthusiast in Cyber Security.
 
 <img align="right" width= "200px" height="200px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
-<h1 align="left">
+<h2 align="left">
 ✨ Where you can find me ✨
   
 <p align="left">
@@ -30,7 +30,7 @@
 </p>
 
 
-</h1>
+</h2>
 
 ## 🔧 Technologies & Tools
 
