@@ -35,7 +35,7 @@
 
 ## 🔧 Technologies & Tools
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=dracula">
 
 ### Frontend
 
