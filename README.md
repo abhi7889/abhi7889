@@ -35,9 +35,9 @@
 
 ## 🔧 Technologies & Tools
 
-### Frontend
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
 
-<img align="right"  width= "500px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=transparent">
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -57,6 +57,8 @@
 
 # Languages
 
+<img align="right"   src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=transparent&show_icons=true">
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -69,7 +71,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
 
-<img align="right"   src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=transparent&show_icons=true">
+
 
 ### Deploy
 
