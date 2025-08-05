@@ -1,7 +1,7 @@
 ### Hi there 👋
  <img align="right" width= "300px" height="300px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
  
-- 🔭 &nbsp; I’m currently learning MERN Stack.
+- 🔭 &nbsp; I’m currently learning Java Full Stack.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and Android developer.
